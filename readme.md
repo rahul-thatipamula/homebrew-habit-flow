@@ -5,7 +5,7 @@ Habit Flow is a habit tracker app for macOS.
 ## Download
 
 You can download the installer from the Releases page:
-[Download Habit Flow for macOS](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/releases/latest)
+[Download Habit Flow for macOS](https://github.com/rahul-thatipamula/habit-flow/releases/latest)
 
 ## How to Install
 
